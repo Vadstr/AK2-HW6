@@ -43,7 +43,7 @@ int helloFunction(uint n);
 
 ### hello1.cpp
 
-```cmake
+```cpp
 // SPDX-License-Identifier: GPL-2-Clause
 #include <linux/init.h>
 #include <linux/module.h>
